@@ -12,17 +12,20 @@ Otherwise I am an ancient student at 42 school. I am the kind of person who love
 
 
 * What I'm learning now :
+  * Shell / Bash. :sparkles:
   * Python for scripting things. <img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   * Language C just for fun. 🔎
   * And all things for sysadmin / networking. 📡
   
 * Environment :
+  * Debian for stability. <img height="18" src="https://github.com/Aptura/Aptura/blob/master/img/debian-2-logo-png-transparent.png">
   * Arch Linux btw. <img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   * Visual Studio Code because I am lazy. <img height="18" src="https://github.com/Aptura/Aptura/blob/master/img/icons8-visual-studio-code-2019.svg">
   * Termius for the GUI. 📡
 
 * Work on :
-  * <a href=https://github.com/Aptura/Dakky>Dakky</a>, my dear beloved ♥
+  * <a href=https://github.com/Aptura/Dakky>Dakky</a>, my dear beloved. ♥
+  * [aptura.link](https://aptura.link), my personnal website for doc and blogging. :page_facing_up:
   * On my own homelab diy. 🔒
 
 I hope you will appreciate my evolution and that we will work together one day! ✌️
