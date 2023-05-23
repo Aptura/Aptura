@@ -12,7 +12,7 @@ Otherwise I am an ancient student at 42 school. I am the kind of person who love
 
 
 * What I'm learning now :
-  * Shell / Bash. :sparkles:
+  * Javascript. :sparkles:
   * Python for scripting things. <img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   * Language C just for fun. 🔎
   * And all things for sysadmin / networking. 📡
@@ -24,7 +24,7 @@ Otherwise I am an ancient student at 42 school. I am the kind of person who love
   * Termius for the GUI. 📡
 
 * Work on :
-  * <a href=https://github.com/Aptura/Dakky>Dakky</a>, my dear beloved. ♥
+  * <a href=https://github.com/Aptura/DakkyJS>Dakky</a>, my dear beloved. ♥
   * [aptura.link](https://aptura.link), my personnal website for doc and blogging. :page_facing_up:
   * On my own homelab diy. 🔒
 
