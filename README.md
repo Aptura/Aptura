@@ -26,7 +26,8 @@ Otherwise I am an ancient student at 42 school. I am the kind of person who love
 * Work on :
   * <a href=https://github.com/Aptura/DakkyJS>Dakky</a>, my dear beloved. ♥
   * [aptura.link](https://aptura.link), my personnal website for doc and blogging. :page_facing_up:
-  * On my own homelab diy. 🔒
+  * On my own homelab. 🔒
+  * Perfecting my OSINT technique. 🔎
 
 I hope you will appreciate my evolution and that we will work together one day! ✌️
 
