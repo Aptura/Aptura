@@ -24,9 +24,9 @@ Otherwise I am an ancient student at 42 school. I am the kind of person who love
   * Termius for the GUI. 📡
 
 * Work on :
-  * <a href=https://github.com/Aptura/DakkyJS>Dakky</a>, my dear beloved. ♥
+  * My first light novel. A non-fiction based in part on my story. (〃ω〃)
   * [aptura.link](https://aptura.link), my personnal website for doc and blogging. :page_facing_up:
-  * On my own homelab. 🔒
+  * On my own homelab. Powered by a Dell PowerEdge T330 🔒
   * Perfecting my OSINT technique. 🔎
 
 I hope you will appreciate my evolution and that we will work together one day! ✌️
