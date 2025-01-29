@@ -12,9 +12,9 @@ Otherwise I am an ancient student at 42 school. I am the kind of person who love
 
 
 * What I'm learning now :
-  * Javascript, nodeJS :sparkles:
+  * Get a better OPSEC :sparkles:
   * Python for scripting things. <img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  * Language C just for fun. 🔎
+  * Some OSINT techniques. 🔎
   * And all things for sysadmin / networking. 📡
   
 * Environment :
@@ -24,11 +24,9 @@ Otherwise I am an ancient student at 42 school. I am the kind of person who love
   * Termius for the GUI. 📡
 
 * Work on :
-  * My first light novel. A non-fiction based in part on my story. (〃ω〃)
+  * Being more anonymous every day. (〃ω〃)
   * [aptura.link](https://aptura.link), my personnal website for doc and blogging. :page_facing_up:
   * On my own homelab. Powered by a Dell PowerEdge T330 🔒
-  * Perfecting my OSINT technique. 🔎
+  * Perfecting my OSINT techniques. 🔎
 
 I hope you will appreciate my evolution and that we will work together one day! ✌️
-
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ApturaLink)
