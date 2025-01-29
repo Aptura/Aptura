@@ -12,7 +12,7 @@ Otherwise I am an ancient student at 42 school. I am the kind of person who love
 
 
 * What I'm learning now :
-  * Get a better OPSEC :sparkles:
+  * Enhance my OPSEC :sparkles:
   * Python for scripting things. <img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   * Some OSINT techniques. 🔎
   * And all things for sysadmin / networking. 📡
